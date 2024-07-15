@@ -24,3 +24,9 @@ C:\Users\Caio\Desktop\Docs\Web Develop\Projects\C#\GameStore_ASP.NETcore\GameSto
 C:\Users\Caio\Desktop\Docs\Web Develop\Projects\C#\GameStore_ASP.NETcore\GameStore.Api\obj\Debug\net8.0\GameStore.Api.pdb
 C:\Users\Caio\Desktop\Docs\Web Develop\Projects\C#\GameStore_ASP.NETcore\GameStore.Api\obj\Debug\net8.0\GameStore.Api.genruntimeconfig.cache
 C:\Users\Caio\Desktop\Docs\Web Develop\Projects\C#\GameStore_ASP.NETcore\GameStore.Api\obj\Debug\net8.0\ref\GameStore.Api.dll
+C:\Users\Caio\Desktop\Docs\Web Develop\Projects\C#\GameStore_ASP.NETcore\GameStore.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Caio\Desktop\Docs\Web Develop\Projects\C#\GameStore_ASP.NETcore\GameStore.Api\bin\Debug\net8.0\MinimalApis.Extensions.dll
+C:\Users\Caio\Desktop\Docs\Web Develop\Projects\C#\GameStore_ASP.NETcore\GameStore.Api\bin\Debug\net8.0\MiniValidation.dll
+C:\Users\Caio\Desktop\Docs\Web Develop\Projects\C#\GameStore_ASP.NETcore\GameStore.Api\obj\Debug\net8.0\GameStore.Api.csproj.AssemblyReference.cache
+C:\Users\Caio\Desktop\Docs\Web Develop\Projects\C#\GameStore_ASP.NETcore\GameStore.Api\obj\Debug\net8.0\GameStore.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Caio\Desktop\Docs\Web Develop\Projects\C#\GameStore_ASP.NETcore\GameStore.Api\obj\Debug\net8.0\GameStor.5118A84D.Up2Date
