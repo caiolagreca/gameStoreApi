@@ -16,8 +16,10 @@ var app = builder.Build();
 
 //Mapeamento dos Endpoints: Define os endpoints da API que interagem com o banco de dados usando o GameStoreContext.
 app.MapGamesEndpoints();
+app.MapGenresEndpoints();
+
 
 // Aplica migrações pendentes ao banco de dados.
-app.MigrateDb();
+await app.MigrateDbAsync();
 
 app.Run();

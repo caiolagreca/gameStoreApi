@@ -21,3 +21,4 @@ public class GameStoreContext(DbContextOptions<GameStoreContext> options) : DbCo
         );
     }
 }
+    
